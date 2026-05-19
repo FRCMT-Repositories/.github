@@ -91,99 +91,84 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 </table>
 
 
-
 ## Mundial Robots - Mato Grosso
 
 <table align="center">
+
 <tr>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="50">
 	<br>
-	<sub><b>2023</b></sub>
+	<h3>2023</h3>
 </td>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50">
 	<br>
-	<sub><b>2024</b></sub>
+	<h3>2024</h3>
 </td>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
 	<br>
-	<sub><b>2025</b></sub>
+	<h3>2025</h3>
 </td>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
 	<br>
-	<sub><b>2026</b></sub>
+	<h3>2026</h3>
 </td>
+
 </tr>
-</table>
 
-
-<table align="center">
 <tr>
 
-<td align="center" width="700">
-<a>
-<br>
+<td align="center">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="700">
-</a>
 </td>
 
-<td align="center" width="700">
-<a>
-<br>
+<td align="center">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="700">
-</a>
 </td>
 
-<td align="center" width="700">
-<a>
-<br>
+<td align="center">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="700">
-</a>
 </td>
 
-<td align="center" width="700">
-<a>
-<br>
+<td align="center">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="700">
-</a>
 </td>
 
 </tr>
-</table>
 
-<table align="center">
 <tr>
 
-<td align="center" width="700">
+<td align="center">
 <a href="https://grabcad.com/library/agrobot-turbo-1">
 	<img src="https://img.shields.io/badge/TURBO V2-565050?style=for-the-badge">
 </a>
 </td>
 
-<td align="center" width="700">
+<td align="center">
 <a href="https://github.com/FRCMT-Repositories/Old/tree/main/CAD/COQUERINHO%202.0">
 	<img src="https://img.shields.io/badge/COQUEIRINHO 2.0-565050?style=for-the-badge">
 </a>
 </td>
 
-<td align="center" width="700">
+<td align="center">
 <a href="https://github.com/FRCMT-Repositories/Old/tree/main/CAD/VORTEX">
 	<img src="https://img.shields.io/badge/VORTEX-565050?style=for-the-badge">
 </a>
 </td>
 
-<td align="center" width="700">
+<td align="center">
 <a href="https://github.com/FRCMT-Repositories/Old/tree/main/CAD/APEX%202.0">
 	<img src="https://img.shields.io/badge/APEX 2.0-565050?style=for-the-badge">
 </a>
+</td>
+
 </tr>
+
 </table>
-
-
