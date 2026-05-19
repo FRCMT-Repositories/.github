@@ -99,18 +99,26 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="50">
+	<br>
+	<sub><b>2023</b></sub>
 </td>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50">
+	<br>
+	<sub><b>2024</b></sub>
 </td>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
+	<br>
+	<sub><b>2025</b></sub>
 </td>
 
 <td align="center" width="700">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
+	<br>
+	<sub><b>2026</b></sub>
 </td>
 </tr>
 </table>
