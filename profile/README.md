@@ -97,10 +97,8 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <tr>
 
 <td align="center" width="700">
-<br>
-	<img src="https://img.shields.io/badge/9168-93b41d?style=for-the-badge">
-</td>
 <a>
+	<img src="https://img.shields.io/badge/9168-93b41d?style=for-the-badge">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="700">
 </a>
 </td>
