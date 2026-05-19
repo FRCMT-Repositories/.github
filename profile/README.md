@@ -28,7 +28,8 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 
 ## Teams
-</p>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
 <a href="https://www.thebluealliance.com/team/9168">
   <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
 </a>
@@ -65,7 +66,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
   <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50">
 </a>
 
-</p>
+</div>
 
 
 
