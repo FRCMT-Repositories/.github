@@ -82,9 +82,9 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <td align="center" width="90">
 <a href="https://www.thebluealliance.com/team/10298">
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50">
+	<br>
+	<b style="font-size:22px;">10298</b>
 </a>
-<br>
-	<img src="https://img.shields.io/badge/10298-0066ff?style=for-the-badge">
 </td>
 
 </tr>
@@ -98,29 +98,28 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <tr>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="100">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="60">
 	<br>
-	<h3>2023</h3>
+	<b style="font-size:22px;">2023</b>
 </td>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="100">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="60">
 	<br>
-	<h3>2024</h3>
+	<b style="font-size:22px;">2024</b>
 </td>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="100">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="60">
 	<br>
-	<h3>2025</h3>
+	<b style="font-size:22px;">2025</b>
 </td>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="100">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="60">
 	<br>
-	<h3>2026</h3>
+	<b style="font-size:22px;">2026</b>
 </td>
-
 </tr>
 
 <tr>
