@@ -98,25 +98,25 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <tr>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="50">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="100">
 	<br>
 	<h3>2023</h3>
 </td>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="100">
 	<br>
 	<h3>2024</h3>
 </td>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="100">
 	<br>
 	<h3>2025</h3>
 </td>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="100">
 	<br>
 	<h3>2026</h3>
 </td>
