@@ -28,6 +28,10 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 </p>
 
+<a href="https://www.thebluealliance.com/team/9602">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="120">
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="robots-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="robots-light.png">
