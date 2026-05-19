@@ -10,22 +10,6 @@ Embora o foco principal esteja voltado para programação e desenvolvimento de s
 
 Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhecimento, promovendo colaboração, aprendizado aberto e crescimento coletivo entre as equipes.
 
-## Teams
-
-<p align="center">
-
-<a>
-  <img src="https://img.shields.io/badge/9602-0066ff?style=for-the-badge">
-</a>
-
-<a href="https://www.thebluealliance.com/team/9603">
-  <img src="https://img.shields.io/badge/FRC-9603-0066ff?style=for-the-badge">
-</a>
-
-<a href="https://www.thebluealliance.com/team/9604">
-  <img src="https://img.shields.io/badge/FRC-9604-0066ff?style=for-the-badge">
-</a>
-
 
 ## Teams
 <table align="center">
@@ -97,7 +81,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 <td align="center" width="90">
 <a href="https://www.thebluealliance.com/team/10298">
-<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50">
+<img src="https://raw.githubusercontent.com/FRCMT-Repositórias/.github/main/profile/frc10298.png" width="50">
 </a>
 <br>
 	<img src="https://img.shields.io/badge/10298-0066ff?style=for-the-badge">
