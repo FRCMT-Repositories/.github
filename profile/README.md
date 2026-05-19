@@ -17,7 +17,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 <td align="center" width="90">
 <a href="https://www.thebluealliance.com/team/9168">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="50">
 </a>
 <br>
 	<img src="https://img.shields.io/badge/9168-0066ff?style=for-the-badge">
@@ -98,7 +98,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <tr>
 
 <td align="center" width="700">
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168_.png" width="50">
 </td>
 
 <td align="center" width="700">
