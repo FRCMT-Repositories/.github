@@ -100,7 +100,6 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <a>
 <br>
 	<img src="https://img.shields.io/badge/9168-93b41d?style=for-the-badge">
-</td>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="700">
 </a>
 </td>
@@ -109,7 +108,6 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <a>
 <br>
 	<img src="https://img.shields.io/badge/9602-93b41d?style=for-the-badge">
-</td>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="700">
 </a>
 </td>
@@ -118,7 +116,6 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <a>
 <br>
 	<img src="https://img.shields.io/badge/10291-93b41d?style=for-the-badge">
-</td>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="700">
 </a>
 </td>
@@ -127,7 +124,6 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <a>
 <br>
 	<img src="https://img.shields.io/badge/10291-93b41d?style=for-the-badge">
-</td>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="700">
 </a>
 </td>
