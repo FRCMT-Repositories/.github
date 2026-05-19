@@ -1,8 +1,8 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Logo.png">
-    <source media="(prefers-color-scheme: light)" srcset="Logo.png">
-    <img alt="TEAM MT" src="Logo.png" height="200">
+    <source media="(prefers-color-scheme: dark)" srcset="./Logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="./Logo.png">
+    <img alt="TEAM MT" src="./Logo.png" height="200">
   </picture>
 </h1>
 
