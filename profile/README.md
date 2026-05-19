@@ -26,11 +26,27 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
   <img src="https://img.shields.io/badge/FRC-9604-0066ff?style=for-the-badge">
 </a>
 
+
+## Teams
+</p>
+<a href="https://www.thebluealliance.com/team/9168">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
+</a>
+
+<a href="https://www.thebluealliance.com/team/9169">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
+</a>
+
+</p>
+<a href="https://www.thebluealliance.com/team/9602">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50">
+</a>
+
 </p>
 
-<a href="https://www.thebluealliance.com/team/9602">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="120">
-</a>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="robots-dark.png">
