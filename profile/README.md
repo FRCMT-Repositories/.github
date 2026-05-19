@@ -31,39 +31,39 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <div align="center">
 
 <a href="https://www.thebluealliance.com/team/9168">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/9169">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9169.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9169.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/9602">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/9603">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9603.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9603.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/9604">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9604.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9604.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/10291">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/10295">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10295.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10295.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/10297">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10297.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10297.png" width="50" style="margin:50px;">
 </a>
 
 <a href="https://www.thebluealliance.com/team/10298">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50" style="margin:15px;">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50" style="margin:50px;">
 </a>
 
 </div>
