@@ -81,7 +81,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 <td align="center" width="90">
 <a href="https://www.thebluealliance.com/team/10298">
-<img src="https://raw.githubusercontent.com/FRCMT-Repositórias/.github/main/profile/frc10298.png" width="50">
+<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50">
 </a>
 <br>
 	<img src="https://img.shields.io/badge/10298-0066ff?style=for-the-badge">
@@ -96,27 +96,39 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <table align="center">
 <tr>
 
-<td align="center" width="500">
+<td align="center" width="700">
+<br>
+	<img src="https://img.shields.io/badge/9168-93b41d?style=for-the-badge">
+</td>
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="500">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="700">
 </a>
 </td>
 
-<td align="center" width="500">
+<td align="center" width="700">
+<br>
+	<img src="https://img.shields.io/badge/9602-93b41d?style=for-the-badge">
+</td>
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="500">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="700">
 </a>
 </td>
 
-<td align="center" width="500">
+<td align="center" width="700">
+<br>
+	<img src="https://img.shields.io/badge/10291-93b41d?style=for-the-badge">
+</td>
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="500">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="700">
 </a>
 </td>
 
-<td align="center" width="500">
+<td align="center" width="700">
+<br>
+	<img src="https://img.shields.io/badge/10291-93b41d?style=for-the-badge">
+</td>
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="500">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="700">
 </a>
 </td>
 
