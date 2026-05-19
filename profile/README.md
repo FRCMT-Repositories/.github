@@ -1,10 +1,32 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/Logo.png" width="300">
+  <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/Logo.png" width="400">
 </p>
 
-FRC 6328 Mechanical Advantage is a FIRST Robotics Competition (FRC) Team based in Littleton, Massachusetts. We are a high school competitive robotics team participating in [FIRST](https://www.firstinspires.org) programs designed to teach students hands-on, real-world engineering and business skills. As a member of the Open Alliance, we strive to raise the tide for all by sharing our work on Chief Delphi and here on GitHub. Our build blogs can be found here: [2026](https://www.chiefdelphi.com/t/frc-6328-mechanical-advantage-2026-build-thread/509595), [2025](https://www.chiefdelphi.com/t/frc-6328-mechanical-advantage-2025-build-thread/477314), [2024](https://www.chiefdelphi.com/t/frc-6328-mechanical-advantage-2024-build-thread/442736), [2023](https://www.chiefdelphi.com/t/frc-6328-mechanical-advantage-2023-build-thread/420691), [2022](https://www.chiefdelphi.com/t/frc-6328-mechanical-advantage-2022-build-thread/398645), [2020/2021](https://www.chiefdelphi.com/t/frc-6328-mechanical-advantage-2020-2021-build-thread/370409).
+## Sobre o Projeto
 
-The team was established in June 2016 as a 501(c)3 non-profit organization, Littleton STEM Educational Foundation (“Littleton Robotics”), whose mission is to promote FIRST and STEM education opportunities in Littleton, MA and other area towns. We are a community-based team and open to students regardless of their town of residence. For more information, please visit [team6328.org](https://www.team6328.org).
+O objetivo deste GitHub é fornecer repositórios, documentações e exemplos práticos que auxiliem na compreensão, aprendizado e nivelamento técnico entre os times de FRC. A proposta é garantir que todas as equipes tenham acesso ao mesmo conhecimento, apoio e oportunidades de desenvolvimento, independentemente de sua experiência ou estrutura atual.
+
+Embora o foco principal esteja voltado para programação e desenvolvimento de software, este repositório não se limita apenas a essa área. Todo conteúdo que possa contribuir para a evolução e padronização do ensino entre os times será disponibilizado aqui, incluindo materiais relacionados a CAD, elétrica, estratégia, simulação, visão computacional, controle, automação e demais áreas da robótica competitiva.
+
+Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhecimento, promovendo colaboração, aprendizado aberto e crescimento coletivo entre as equipes.
+
+## Teams
+
+<p align="center">
+
+<a href="https://www.thebluealliance.com/team/9602">
+  <img src="https://img.shields.io/badge/FRC-9602-0066ff?style=for-the-badge">
+</a>
+
+<a href="https://www.thebluealliance.com/team/9603">
+  <img src="https://img.shields.io/badge/FRC-9603-0066ff?style=for-the-badge">
+</a>
+
+<a href="https://www.thebluealliance.com/team/9604">
+  <img src="https://img.shields.io/badge/FRC-9604-0066ff?style=for-the-badge">
+</a>
+
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="robots-dark.png">
