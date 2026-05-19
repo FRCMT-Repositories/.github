@@ -36,9 +36,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/9168-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -46,18 +44,15 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9169.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/9169-0066ff?style=for-the-badge">
-</a></td>
+</td>
 
 <td align="center" width="90">
 <a href="https://www.thebluealliance.com/team/9602">
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9602.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/9602-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -65,9 +60,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9603.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/9603-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -75,9 +68,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9604.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/9604-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -85,9 +76,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10291.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/10291-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -95,9 +84,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10295.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/10295-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -105,9 +92,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10297.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/10297-0066ff?style=for-the-badge">
-</a>
 </td>
 
 <td align="center" width="90">
@@ -115,9 +100,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc10298.png" width="50">
 </a>
 <br>
-<a>
 	<img src="https://img.shields.io/badge/10298-0066ff?style=for-the-badge">
-</a>
 </td>
 
 </tr>
@@ -131,27 +114,28 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 <td align="center" width="100">
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="200">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="500">
 </a>
 </td>
 
 <td align="center" width="100">
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="200">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="500">
 </a>
 </td>
 
 <td align="center" width="100">
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="200">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="500">
 </a>
 </td>
 
 <td align="center" width="100">
 <a>
-	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="200">
+	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="500">
 </a>
 </td>
+
 </tr>
 </table>
 
