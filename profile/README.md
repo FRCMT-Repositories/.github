@@ -94,7 +94,6 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 
 ## Mundial Robots - Mato Grosso
 
-<table align="center">
 <tr>
 
 <td align="center" width="700">
@@ -113,7 +112,7 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/frc9168.png" width="50">
 </td>
 </tr>
-</table>
+
 
 
 <table align="center">
