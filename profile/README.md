@@ -100,31 +100,31 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <a>
 <br>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="700">
-	<img src="https://img.shields.io/badge/TURBO V2-93b41d?style=for-the-badge">
+	<img src="https://img.shields.io/badge/TURBO V2-565050?style=for-the-badge">
 </a>
 </td>
 
 <td align="center" width="700">
 <a>
 <br>
-	<img src="https://img.shields.io/badge/9602-93b41d?style=for-the-badge">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="700">
+	<img src="https://img.shields.io/badge/COQUEIRINHO 2.0-565050?style=for-the-badge">
 </a>
 </td>
 
 <td align="center" width="700">
 <a>
 <br>
-	<img src="https://img.shields.io/badge/10291-93b41d?style=for-the-badge">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="700">
+	<img src="https://img.shields.io/badge/VORTEX-565050?style=for-the-badge">
 </a>
 </td>
 
 <td align="center" width="700">
 <a>
 <br>
-	<img src="https://img.shields.io/badge/10291-93b41d?style=for-the-badge">
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="700">
+	<img src="https://img.shields.io/badge/APEX 2.0-565050?style=for-the-badge">
 </a>
 </td>
 
