@@ -96,25 +96,25 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 <table align="center">
 <tr>
 
-<td align="center" width="100">
+<td align="center" width="500">
 <a>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2023.png" width="500">
 </a>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="500">
 <a>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2024.png" width="500">
 </a>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="500">
 <a>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2025.png" width="500">
 </a>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="500">
 <a>
 	<img src="https://raw.githubusercontent.com/FRCMT-Repositories/.github/main/profile/robot2026.png" width="500">
 </a>
