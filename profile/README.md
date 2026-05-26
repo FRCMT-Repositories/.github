@@ -158,10 +158,6 @@ Nosso objetivo é fortalecer a comunidade através do compartilhamento de conhec
 	<img src="https://img.shields.io/badge/CAD TURBO V2-565050?style=for-the-badge">
 </a>
 
-<a href="https://github.com/FRCMT-Repositories/Old/tree/main/Code/TURBO/TURBO_V10">
-	<img src="https://img.shields.io/badge/CODE-00ff00?style=for-the-badge">
-</a>
-
 </td>
 
 <td align="center">
